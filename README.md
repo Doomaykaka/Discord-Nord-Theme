@@ -2,7 +2,7 @@
 
 *Unofficial Nord theme port for Discord.*
 
-<img src="./assets/view.png" width="50%" alt="View">
+![View](./assets/view.png)
 
 Installation:
 
