@@ -10,7 +10,7 @@ Installation:
 4. Paste:
 
 ```css
-@import url("https://github.com/Doomaykaka/Discord-Nord-Theme/dark.css");
+@import url("https://raw.githubusercontent.com/Doomaykaka/Discord-Nord-Theme/refs/heads/main/dark.css");
 ```
 
 Or:
@@ -21,5 +21,5 @@ Or:
 4. Paste the link:
 
 ```
-https://github.com/Doomaykaka/Discord-Nord-Theme/dark.css
+https://raw.githubusercontent.com/Doomaykaka/Discord-Nord-Theme/refs/heads/main/dark.css
 ```
