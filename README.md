@@ -2,6 +2,8 @@
 
 *Unofficial Nord theme port for Discord.*
 
+<img src="./assets/view.png" width="50%" alt="View">
+
 Installation:
 
 1. Open Settings
